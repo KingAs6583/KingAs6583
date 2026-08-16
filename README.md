@@ -6,16 +6,20 @@
 
 I've been learning coding from 5 years and found it very awesome
 
-* 🌍  I'm based in Bangalore
-* 🖥️  See my portfolio at [My GitHub Page](https://kingas6583.github.io/Portfolio-web-pages/)
-* ✉️  You can contact me at [Abubakar.Siddiq6583@gmail.com](mailto:Abubakar.Siddiq6583@gmail.com)
-* 🧠  I'm learning React.js
+* 🌍  I'm based in Bangalore
+* 🖥️  See my portfolio at [My GitHub Page](https://kingas6583.github.io/Portfolio-web-pages/)
+* ✉️  You can contact me at [Abubakar.Siddiq6583@gmail.com](mailto:Abubakar.Siddiq6583@gmail.com)
+* 🧠  I'm learning React.js
 * 💞️ I’m looking to collaborate On open source project
 
 <a href="https://www.github.com/KingAs6583" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KingAs6583?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href = "mailto:abubakar.siddiq6583@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingas6583&label=Profile%20views&color=0e75b6&style=flat" alt="kingas6583" /> </p>
+
+<p align="center">
+  <img src="./banner.jpg" alt="Abubakar Siddiq - Android & Full Stack Developer" width="100%">
+</p>
 
 ### Skills
 
@@ -76,18 +80,19 @@ src="https://img.shields.io/github/followers/KingAs6583?logo=github&style=for-th
 
 <a href="https://www.github.com/KingAs6583"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KingAs6583&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://www.github.com/KingAs6583"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingAs6583&layout=compact&theme=dark" alt=KingAs6583 /></a>
+<a href="https://www.github.com/KingAs6583"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingAs6583&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="KingAs6583" /></a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/KingAs6583">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KingAs6583&theme=2077" height="180em" />
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KingAs6583&theme=2077" height="180em" />
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KingAs6583&theme=2077" height="180em" />
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KingAs6583&theme=2077" height="180em" />
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KingAs6583&theme=2077" height="180em" />
+  <a href="https://github.com/KingAs6583">
+    <img align="center" src="./profile-summary-card-output/2077/3-stats.svg" height="180" alt="Stats" />
+    <img align="center" src="./profile-summary-card-output/2077/2-most-commit-language.svg" height="180" alt="Most Commit Language" />
+    <img align="center" src="./profile-summary-card-output/2077/1-repos-per-language.svg" height="180" alt="Repos Per Language" />
+    <img align="center" src="./profile-summary-card-output/2077/4-productive-time.svg" height="180" alt="Productive Time" />
+    <img align="center" src="./profile-summary-card-output/2077/0-profile-details.svg" height="180" alt="Profile Details" />
+  </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="left">⚡Activity Graph:</h2>
